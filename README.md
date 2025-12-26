@@ -1,6 +1,6 @@
-Acknowledgements
-This project is a personal implementation based on the excellent micrograd tutorial by Andrej Karpathy.
+# Acknowledgements
 
-Video: The spelled-out intro to neural networks and backpropagation: building micrograd
+This project is a personal implementation based on the excellent [micrograd](https://github.com/karpathy/micrograd) tutorial by Andrej Karpathy.
 
-Original Repo: karpathy/micrograd
+* **Video:** [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)
+* **Original Repo:** [karpathy/micrograd](https://github.com/karpathy/micrograd)
